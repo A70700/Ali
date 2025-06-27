@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>قائمة البرامج الأساسية</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 20px;
+      padding: 20px;
+    }
+    h1 {
+      background-color: #0088cc;
+      color: white;
+      padding: 10px;
+      border-radius: 8px;
+      text-align: center;
+    }
+    h2 {
+      color: #333;
+      margin-top: 30px;
+      border-bottom: 2px solid #0088cc;
+      padding-bottom: 5px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    th, td {
+      padding: 12px;
+      border-bottom: 1px solid #ddd;
+      text-align: center;
+    }
+    th {
+      background-color: #0088cc;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<h1>قائمة البرامج</h1>
+
+<h2>✅ البرامج الأساسية (للدراسة والأعمال الإلكترونية)</h2>
+<table>
+  <tr>
+    <th>البرنامج</th>
+    <th>الوظيفة</th>
+  </tr>
+  <tr><td>Google Chrome / Firefox</td><td>متصفح إنترنت سريع</td></tr>
+  <tr><td>WinRAR</td><td>فك وضغط الملفات</td></tr>
+  <tr><td>PDF Reader (Foxit أو Adobe)</td><td>فتح ملفات PDF</td></tr>
+  <tr><td>Microsoft Office</td><td>Word, Excel, PowerPoint</td></tr>
+  <tr><td>Zoom</td><td>محاضرات أونلاين</td></tr>
+  <tr><td>Telegram + WhatsApp Web</td><td>تواصل فوري</td></tr>
+  <tr><td>Canva</td><td>تصميم بوستات (موقع)</td></tr>
+  <tr><td>برنامج حماية (Windows Defender أو Kaspersky)</td><td>حماية من الفيروسات</td></tr>
+  <tr><td>MSI Center / Lenovo Vantage</td><td>تحسين أداء الجهاز</td></tr>
+  <tr><td>Driver Booster أو تعريفات يدوية</td><td>تشغيل مكونات الجهاز</td></tr>
+</table>
+
+<h2>🛡️ برامج الأمن السيبراني</h2>
+<table>
+  <tr>
+    <th>البرنامج</th>
+    <th>الوظيفة</th>
+  </tr>
+  <tr><td>VirtualBox أو VMware</td><td>تشغيل أنظمة وهمية</td></tr>
+  <tr><td>Kali Linux / Parrot OS</td><td>اختبار اختراق وتدريب</td></tr>
+  <tr><td>Wireshark</td><td>تحليل الشبكات</td></tr>
+  <tr><td>Nmap</td><td>فحص الشبكات</td></tr>
+  <tr><td>Python + Visual Studio Code</td><td>البرمجة وتحليل السكربتات</td></tr>
+  <tr><td>Burp Suite (Community)</td><td>تحليل تطبيقات الويب</td></tr>
+  <tr><td>Hashcat أو John the Ripper</td><td>كسر كلمات المرور (متقدم)</td></tr>
+  <tr><td>Windows Terminal / CMD</td><td>أدوات النظام الأساسية</td></tr>
+  <tr><td>Hyper-V (إذا كان متاح)</td><td>أنظمة وهمية بسرعة أفضل</td></tr>
+</table>
+
+</body>
+</html>
